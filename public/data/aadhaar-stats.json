@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "2026-01-10",
+  "metadata": {
+    "source": "UIDAI Aggregated Statistics",
+    "updateFrequency": "Monthly",
+    "dataType": "Publicly Released Aggregated Data"
+  },
+  "enrolments": [
+    { "year": 2018, "total": 1199800000 },
+    { "year": 2019, "total": 1228000000 },
+    { "year": 2020, "total": 1251000000 },
+    { "year": 2021, "total": 1273000000 },
+    { "year": 2022, "total": 1300000000 },
+    { "year": 2023, "total": 1330000000 },
+    { "year": 2024, "total": 1360000000 },
+    { "year": 2025, "total": 1385000000 }
+  ],
+  "stateUpdates": [
+    { "state": "Uttar Pradesh", "updates": 18500000 },
+    { "state": "Maharashtra", "updates": 11200000 },
+    { "state": "Bihar", "updates": 10500000 },
+    { "state": "West Bengal", "updates": 9100000 },
+    { "state": "Madhya Pradesh", "updates": 7800000 },
+    { "state": "Tamil Nadu", "updates": 7200000 },
+    { "state": "Rajasthan", "updates": 6900000 },
+    { "state": "Karnataka", "updates": 6500000 },
+    { "state": "Gujarat", "updates": 6100000 },
+    { "state": "Andhra Pradesh", "updates": 5200000 },
+    { "state": "Odisha", "updates": 4400000 },
+    { "state": "Telangana", "updates": 3700000 },
+    { "state": "Kerala", "updates": 3400000 },
+    { "state": "Jharkhand", "updates": 3300000 },
+    { "state": "Assam", "updates": 3100000 }
+  ],
+  "ageGroups": [
+    { "group": "0-18", "count": 380000000 },
+    { "group": "19-35", "count": 485000000 },
+    { "group": "36-50", "count": 320000000 },
+    { "group": "51-65", "count": 150000000 },
+    { "group": "65+", "count": 50000000 }
+  ],
+  "updateTypes": [
+    { "type": "Biometric Update", "count": 45000000 },
+    { "type": "Address Update", "count": 62000000 },
+    { "type": "Mobile Update", "count": 78000000 },
+    { "type": "Email Update", "count": 38000000 },
+    { "type": "Name Correction", "count": 12000000 }
+  ]
+}
